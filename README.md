@@ -27,3 +27,10 @@ npm start
 Si todo sale bien, deberían ver un mensaje como este:
 
 ```
+$ npm start
+
+> oixum-sql@1.0.0 start /home/faloi/workspace/et35/oixum-sql
+> node src/app.js
+
+Entrá a http://localhost:3000 desde tu navegador para ver qué devuelve esto
+```
